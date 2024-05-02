@@ -27,6 +27,7 @@ int main() {
     return 0;
 }
 
+Output :
 
 Enter a character: a
 a is a vowel.
