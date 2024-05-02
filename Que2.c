@@ -16,7 +16,7 @@ int main() {
 
     return 0;
 }
-
+Output :
 
 The largest element in the array is: 10
 
